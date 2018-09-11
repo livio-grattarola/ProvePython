@@ -1,0 +1,2 @@
+modificare (o creare) ./bash_rc
+export PATH=/home/livio/.local/bin:$PATH 
