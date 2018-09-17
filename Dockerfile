@@ -1,7 +1,5 @@
 FROM jupyter/minimal-notebook
 
-RUN pip 'geopandas' 'matplotlib' 'descartes'
+RUN pip install 'geopandas' 'matplotlib' 'descartes'
 
-WORKDIR work
-
- 
+VOLUME /work
