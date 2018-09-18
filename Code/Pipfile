@@ -11,6 +11,7 @@ ipympl = "*"
 geopandas = "*"
 fio = "*"
 descartes = "*"
+numexpr = "*"
 
 [dev-packages]
 
