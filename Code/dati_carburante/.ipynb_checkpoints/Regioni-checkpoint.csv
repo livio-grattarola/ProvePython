@@ -1,0 +1,21 @@
+CodiceIstat;Nome;Abbreviato;Area;Costiero
+1;Piemonte;PIE;Nord;FALSE
+2;Valle d'Aosta;VDA;Nord;FALSE
+3;Lombardia;LOM;Nord;FALSE
+4;Trentino-Alto Adige;TAA;Nord;FALSE
+5;Veneto;VEN;Nord;TRUE
+6;Friuli-Venezia Giulia;FVG;Nord;TRUE
+7;Liguria;LIG;Nord;TRUE
+8;Emilia-Romagna;EMR;Centro;TRUE
+9;Toscana;TOS;Centro;TRUE
+10;Umbria;UMB;Centro;FALSE
+11;Marche;MAR;Centro;TRUE
+12;Lazio;LAZ;Centro;TRUE
+13;Abruzzo;ABR;Sud;TRUE
+14;Molise;MOL;Sud;TRUE
+15;Campania;CAM;Sud;TRUE
+16;Puglia;PUG;Sud;TRUE
+17;Basilicata;BAS;Sud;TRUE
+18;Calabria;CAL;Sud;TRUE
+19;Sicilia;SIC;Isole;TRUE
+20;Sardegna;SAR;Isole;TRUE
