@@ -1,0 +1,111 @@
+Prov_CodiceIstat;Prov_Sigla;Prov_Nome;Prov_Capoluogo;Reg_CodiceIstat;Reg_Nome;Reg_Abbreviato;Reg_Area
+2;VC;Vercelli;False;1;Piemonte;PIE;Nord
+3;NO;Novara;False;1;Piemonte;PIE;Nord
+1;TO;Torino;True;1;Piemonte;PIE;Nord
+4;CN;Cuneo;False;1;Piemonte;PIE;Nord
+6;AL;Alessandria;False;1;Piemonte;PIE;Nord
+7;AO;Aosta;True;2;Valle d'Aosta;VDA;Nord
+5;AT;Asti;False;1;Piemonte;PIE;Nord
+10;GE;Genova;True;7;Liguria;LIG;Nord
+11;SP;La Spezia;False;7;Liguria;LIG;Nord
+12;VA;Varese;False;3;Lombardia;LOM;Nord
+13;CO;Como;False;3;Lombardia;LOM;Nord
+8;IM;Imperia;False;7;Liguria;LIG;Nord
+9;SV;Savona;False;7;Liguria;LIG;Nord
+14;SO;Sondrio;False;3;Lombardia;LOM;Nord
+15;MI;Milano;True;3;Lombardia;LOM;Nord
+17;BS;Brescia;False;3;Lombardia;LOM;Nord
+16;BG;Bergamo;False;3;Lombardia;LOM;Nord
+18;PV;Pavia;False;3;Lombardia;LOM;Nord
+20;MN;Mantova;False;3;Lombardia;LOM;Nord
+19;CR;Cremona;False;3;Lombardia;LOM;Nord
+24;VI;Vicenza;False;5;Veneto;VEN;Nord
+25;BL;Belluno;False;5;Veneto;VEN;Nord
+22;TN;Trento;True;4;Trentino-Alto Adige;TAA;Nord
+23;VR;Verona;False;5;Veneto;VEN;Nord
+21;BZ;Bolzano;False;4;Trentino-Alto Adige;TAA;Nord
+28;PD;Padova;False;5;Veneto;VEN;Nord
+29;RO;Rovigo;False;5;Veneto;VEN;Nord
+26;TV;Treviso;False;5;Veneto;VEN;Nord
+27;VE;Venezia;True;5;Veneto;VEN;Nord
+30;UD;Udine;False;6;Friuli-Venezia Giulia;FVG;Nord
+31;GO;Gorizia;False;6;Friuli-Venezia Giulia;FVG;Nord
+32;TS;Trieste;True;6;Friuli-Venezia Giulia;FVG;Nord
+34;PR;Parma;False;8;Emilia-Romagna;EMR;Centro
+35;RE;Reggio nell'Emilia;False;8;Emilia-Romagna;EMR;Centro
+36;MO;Modena;False;8;Emilia-Romagna;EMR;Centro
+33;PC;Piacenza;False;8;Emilia-Romagna;EMR;Centro
+40;FC;Forli'-Cesena;False;8;Emilia-Romagna;EMR;Centro
+41;PU;Pesaro e Urbino;False;11;Marche;MAR;Centro
+37;BO;Bologna;True;8;Emilia-Romagna;EMR;Centro
+38;FE;Ferrara;False;8;Emilia-Romagna;EMR;Centro
+39;RA;Ravenna;False;8;Emilia-Romagna;EMR;Centro
+43;MC;Macerata;False;11;Marche;MAR;Centro
+44;AP;Ascoli Piceno;False;11;Marche;MAR;Centro
+47;PT;Pistoia;False;9;Toscana;TOS;Centro
+48;FI;Firenze;True;9;Toscana;TOS;Centro
+45;MS;Massa Carrara;False;9;Toscana;TOS;Centro
+46;LU;Lucca;False;9;Toscana;TOS;Centro
+42;AN;Ancona;True;11;Marche;MAR;Centro
+51;AR;Arezzo;False;9;Toscana;TOS;Centro
+49;LI;Livorno;False;9;Toscana;TOS;Centro
+50;PI;Pisa;False;9;Toscana;TOS;Centro
+53;GR;Grosseto;False;9;Toscana;TOS;Centro
+54;PG;Perugia;True;10;Umbria;UMB;Centro
+55;TR;Terni;False;10;Umbria;UMB;Centro
+52;SI;Siena;False;9;Toscana;TOS;Centro
+58;RM;Roma;True;12;Lazio;LAZ;Centro
+56;VT;Viterbo;False;12;Lazio;LAZ;Centro
+57;RI;Rieti;False;12;Lazio;LAZ;Centro
+60;FR;Frosinone;False;12;Lazio;LAZ;Centro
+61;CE;Caserta;False;15;Campania;CAM;Sud
+63;NA;Napoli;True;15;Campania;CAM;Sud
+62;BN;Benevento;False;15;Campania;CAM;Sud
+59;LT;Latina;False;12;Lazio;LAZ;Centro
+64;AV;Avellino;False;15;Campania;CAM;Sud
+66;AQ;L'Aquila;False;13;Abruzzo;ABR;Sud
+67;TE;Teramo;False;13;Abruzzo;ABR;Sud
+68;PE;Pescara;False;13;Abruzzo;ABR;Sud
+65;SA;Salerno;False;15;Campania;CAM;Sud
+69;CH;Chieti;False;13;Abruzzo;ABR;Sud
+71;FG;Foggia;False;16;Puglia;PUG;Sud
+72;BA;Bari;True;16;Puglia;PUG;Sud
+70;CB;Campobasso;True;14;Molise;MOL;Sud
+73;TA;Taranto;False;16;Puglia;PUG;Sud
+74;BR;Brindisi;False;16;Puglia;PUG;Sud
+101;KR;Crotone;False;18;Calabria;CAL;Sud
+102;VV;Vibo Valentia;False;18;Calabria;CAL;Sud
+75;LE;Lecce;False;16;Puglia;PUG;Sud
+103;VB;Verbano-Cusio-Ossola;False;1;Piemonte;PIE;Nord
+76;PZ;Potenza;True;17;Basilicata;BAS;Sud
+81;TP;Trapani;False;19;Sicilia;SIC;Isole
+82;PA;Palermo;True;19;Sicilia;SIC;Isole
+83;ME;Messina;False;19;Sicilia;SIC;Isole
+84;AG;Agrigento;False;19;Sicilia;SIC;Isole
+85;CL;Caltanissetta;False;19;Sicilia;SIC;Isole
+86;EN;Enna;False;19;Sicilia;SIC;Isole
+87;CT;Catania;False;19;Sicilia;SIC;Isole
+88;RG;Ragusa;False;19;Sicilia;SIC;Isole
+108;MB;Monza e della Brianza;False;3;Lombardia;LOM;Nord
+77;MT;Matera;False;17;Basilicata;BAS;Sud
+93;PN;Pordenone;False;6;Friuli-Venezia Giulia;FVG;Nord
+109;FM;Fermo;False;11;Marche;MAR;Centro
+78;CS;Cosenza;False;18;Calabria;CAL;Sud
+94;IS;Isernia;False;14;Molise;MOL;Sud
+79;CZ;Catanzaro;True;18;Calabria;CAL;Sud
+96;BI;Biella;False;1;Piemonte;PIE;Nord
+99;RN;Rimini;False;8;Emilia-Romagna;EMR;Centro
+80;RC;Reggio di Calabria;False;18;Calabria;CAL;Sud
+97;LC;Lecco;False;3;Lombardia;LOM;Nord
+98;LO;Lodi;False;3;Lombardia;LOM;Nord
+100;PO;Prato;False;9;Toscana;TOS;Centro
+110;BT;Barletta-Andria-Trani;False;16;Puglia;PUG;Sud
+89;SR;Siracusa;False;19;Sicilia;SIC;Isole
+90;SS;Sassari;False;20;Sardegna;SAR;Isole
+91;NU;Nuoro;False;20;Sardegna;SAR;Isole
+92;CA;Cagliari;True;20;Sardegna;SAR;Isole
+95;OR;Oristano;False;20;Sardegna;SAR;Isole
+104;OT;Olbia-Tempio;False;20;Sardegna;SAR;Isole
+105;OG;Ogliastra;False;20;Sardegna;SAR;Isole
+106;VS;Medio Campidano;False;20;Sardegna;SAR;Isole
+107;CI;Carbonia-Iglesias;False;20;Sardegna;SAR;Isole
