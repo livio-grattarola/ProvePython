@@ -1,5 +1,6 @@
 FROM jupyter/minimal-notebook
 
-RUN pip install 'geopandas' 'matplotlib' 'descartes', 'numexpr'
+RUN pip install --upgrade pip
+RUN pip install 'geopandas' 'matplotlib==3.0.0' 'descartes' 'numexpr'
 
 VOLUME /work
